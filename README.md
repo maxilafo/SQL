@@ -1,3 +1,3 @@
 # SQL
 
-In this repository I'll store projects made with SQL
+In this repository I store projects made with SQL
