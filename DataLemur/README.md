@@ -1,5 +1,5 @@
 # Solutions to questions in DataLemur
-Here is the solution made with PostgreSQL for each of the SQL queries. You can click on each title, and it will take you to the problem posed.
+### Here is the solution made with PostgreSQL for each of the SQL queries. You can click on each title, and it will take you to the problem posed.
 
 ## <p><u><a href="https://datalemur.com/questions/sql-page-with-no-likes">Page With No Likes</a></u></p>
 <p>SELECT DISTINCT(page_id) FROM pages</p>
